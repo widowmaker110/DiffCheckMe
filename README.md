@@ -16,7 +16,7 @@
 
 ### Running Program
 
-DiffChecker's API requires [Node.js](https://nodejs.org/) to run.Follow their [CLI] instructions before using this software.
+DiffChecker's API requires [NPM](https://www.npmjs.com/) to run.Follow their [CLI] instructions before using this software.
 
 Ensure the properties file is in the same directory as the jar.
 
