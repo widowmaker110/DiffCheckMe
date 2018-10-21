@@ -31,7 +31,6 @@ Of you can just click the runnable Jar file.
 ### Todos
 
  - Write MORE Tests
- - Add Night Mode
 
 License
 ----
