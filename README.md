@@ -9,10 +9,10 @@
 ### Installation
   - Download the Jar file "DiffCheckme.jar" to a local directory
   - Download the DiffCheckMe.properties file
-  -- Define the Source directory (e.g. Dev)
-  -- Define the Target directory (e.g. QA Full Sandbox)
-  -- Define if you want metadata evaluated (true) or not (false)
-  -- Define the duration of the Diff. Options are day, month, forever
+  - Define the Source directory (e.g. Dev)
+  - Define the Target directory (e.g. QA Full Sandbox)
+  - Define if you want metadata evaluated (true) or not (false)
+  - Define the duration of the Diff. Options are day, month, forever
 
 ### Running Program
 
